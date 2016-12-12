@@ -1,0 +1,5 @@
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\Patrick.Todd\Documents\Visual Studio 2013\Projects\03_console_applications\arrays\arrays\obj\Debug\arrays.pdb
